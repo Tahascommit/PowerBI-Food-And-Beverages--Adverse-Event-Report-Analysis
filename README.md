@@ -17,11 +17,13 @@ This repository features Power BI dashboards that analyze adverse event reports 
 </p >
 
 <p align="center">
-  <img src="https://github.com/Tahascommit/PowerBI-Food-And-Beverages--Adverse-Event-Report-Analysis/blob/75567130171520f75d5389a3274a67da1ee8fefb/assets/Snap_3.PNG[BI-Record.webm](https://github.com/Tahascommit/PowerBI-Food-And-Beverages--Adverse-Event-Report-Analysis/assets/140254555/ccc088ef-5943-4bba-b4da-971beb0baf89)
-[BI-Record.webm](https://github.com/Tahascommit/PowerBI-Food-And-Beverages--Adverse-Event-Report-Analysis/assets/140254555/1c352fa1-01c0-4432-b81c-4d41e2832e88)
-" width="703" height="340">
+  <img src="https://github.com/Tahascommit/PowerBI-Food-And-Beverages--Adverse-Event-Report-Analysis/blob/75567130171520f75d5389a3274a67da1ee8fefb/assets/Snap_3.PNG" width="703" height="340">
 </p >
 
 <p align="center">
-  <img src="" width="703" height="340">
+  <img src="https://github.com/Tahascommit/PowerBI-Food-And-Beverages--Adverse-Event-Report-Analysis/blob/75567130171520f75d5389a3274a67da1ee8fefb/assets/Snap_4.PNG" width="703" height="340">
 </p >
+
+# Demo
+<img src="https://github.com/Tahascommit/PowerBI-Food-And-Beverages--Adverse-Event-Report-Analysis/blob/75567130171520f75d5389a3274a67da1ee8fefb/assets/Demo.gif" width="602" height="335">
+
